@@ -1,0 +1,44 @@
+body {
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 12px;
+    color: #999;
+}
+
+.lettrine{
+    font-size: 30px;
+    color: orange;
+    text-transform: uppercase;
+}
+
+.orange{
+    color: orange;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.fz11, h3{
+    font-size: 11px;
+}
+
+h1, h2, h3 {
+    color: #ccc;
+}
+
+h1{
+    font-size: 24px;
+}
+
+h2{
+    font-size: 22px;
+}
+
+td{
+    color: orange;
+}
+
+figcaption{
+    font-size: 13px;
+    color: #99340F;
+}

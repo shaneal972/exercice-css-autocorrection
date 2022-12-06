@@ -1,0 +1,55 @@
+body{
+    font-family: Arial, sans-serif;
+    font-size: 13px;
+    color: #000033;
+}
+
+.red {
+    color: red;
+}
+
+h1, h2{
+    font-size: 20px;
+}
+
+h1{    
+    text-align: center;
+}
+
+h2, h3{
+    color: #006699;
+}
+
+h3{
+    font-size: 18px;
+}
+
+h4, h5{
+    color: #7AAED5;
+}
+
+h4{
+    font-size: 16px;
+    
+}
+
+h5{
+    font-size: 14px;
+}
+
+em, q, blockquote{
+    color: #999;
+}
+
+em{
+    font-size: 12px;
+}
+
+q, blockquote{
+    font-family: "Trebuchet MS";
+}
+
+ul{
+    color: #666;
+}
+
